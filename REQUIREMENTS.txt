@@ -1,0 +1,2 @@
+*PHP 5 and above
+*Enabled PDO and PDO_MYSQL extensions in your php.ini file
